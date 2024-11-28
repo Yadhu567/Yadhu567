@@ -1,9 +1,7 @@
 ## Hi there 👋
 # Yadhu Krishnan P K
 # 💫 About Me:
-🛠 Worked In<br><br>- ICFOSS :<br>   - Worked as an  Application Developer Intern at ICFOSS, focusing on building efficient web applications using  Django and  React.<br><br>📚 Currently Learning<br><br>- Linux :<br>   - Gaining expertise in the Linux operating system , focusing on command-line operations, system administration, and shell scripting.<br><br>- Git :<br>   - Enhancing version control skills using  Git for managing codebases, branching strategies, and collaborative development.
-
-
+🛠 Worked In<br><br>- ICFOSS :<br>   - Worked as an  Application Developer Intern at ICFOSS, focusing on building efficient web applications using  Django and  React.<br><br>📚 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yadhukrishnan-pk-15b695212/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@__yadhoo__) 
 
