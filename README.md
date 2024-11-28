@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Yadhukrishnan PK
+# Yadhu Krishnan P K
 # 💫 About Me:
 🛠 Worked In<br><br>- ICFOSS :<br>   - Worked as an  Application Developer Intern at ICFOSS, focusing on building efficient web applications using  Django and  React.<br><br>📚 Currently Learning<br><br>- Linux :<br>   - Gaining expertise in the Linux operating system , focusing on command-line operations, system administration, and shell scripting.<br><br>- Git :<br>   - Enhancing version control skills using  Git for managing codebases, branching strategies, and collaborative development.
 
